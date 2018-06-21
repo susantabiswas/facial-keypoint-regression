@@ -5,7 +5,7 @@ The dataset for this problem was downloaded from Kaggle https://www.kaggle.com/c
 This keypoint detection is a regression problem since we are predicting the coordinates for the landmarks on the face. CNN was used for this problem. The model achieved an accuracy of 76% on the validation set. The model was trained on a set of approx 1700 images and around 300 images were taken for validation purpose. The images were grayscale and had shape 96 X 96. 
 
 ## Model Performance on real world data
-Prediction for real world color images.
+Predictions for some real world color images.
 
 <img src ='images/1.png'  width="330" height="380">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src ='images/4.png'  width="380" height="380">
 
@@ -13,7 +13,7 @@ Prediction for real world color images.
 
 
 ## Model Performance on Validation data
-Prediction made on validation images.
+Predictions for some validation images.
 ![validation](images/snap.png)
 
 ## Model Architecture
