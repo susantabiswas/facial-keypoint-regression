@@ -16,7 +16,11 @@ Prediction for real world color images.
 Prediction made on validation images.
 ![validation](images/snap.png)
 
-### Model Architecture
+## Model Architecture
+The model uses a CNN based Architecture.
 <p align="center">
   <img src ='images/model_plot.png'  width="321" height="1000" >
 </p>
+
+### References
+Dataset downloaded from Kaggle https://www.kaggle.com/c/facial-keypoints-detection/. 
