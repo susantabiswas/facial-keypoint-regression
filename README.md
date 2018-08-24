@@ -1,3 +1,4 @@
+[![HitCount](http://hits.dwyl.io/susantabiswas/facial-keypoint-regression.svg)](http://hits.dwyl.io/susantabiswas/facial-keypoint-regression)
 # <u>Facial Keypoint Detection</u>
 
 I have made a Facial Keypoints Regressor that regresses the keypoints for human face. This keypoint detection problem is a regression problem since we are predicting the coordinates for the landmarks on the face which are real numbers. 
